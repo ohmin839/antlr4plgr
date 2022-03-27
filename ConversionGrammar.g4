@@ -1,5 +1,9 @@
 grammar ConversionGrammar;
 
+options {
+	accessLevel = 'internal';
+}
+
 letters: letter*;
 
 letter: alphabet
