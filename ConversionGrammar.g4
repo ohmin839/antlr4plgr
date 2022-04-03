@@ -27,46 +27,46 @@ smallNasableGamma: SMALL_NU SMALL_GAMMA # smallNasableGammaGamma
 nonFinalSigma: SMALL_SIGMA alphabet ;
 
 singleAlphabet: LARGE_ALPHA # largeAlpha
-        | LARGE_EPSILON # largeEpsilon
-        | LARGE_ETA # largeEta
-        | LARGE_IOTA # largeIota
-        | LARGE_OMICRON # largeOmicron
-        | LARGE_UPSILON # largeUpsilon
-        | LARGE_OMEGA # largeOmega
-        | LARGE_BETA # largeBeta
-        | LARGE_GAMMA # largeGamma
-        | LARGE_DELTA # largeDelta
-        | LARGE_ZETA # largeZeta
-        | LARGE_KAPPA # largeKappa
-        | LARGE_LAMBDA # largeLambda
-        | LARGE_MU # largeMu
-        | LARGE_NU # largeNu
-        | LARGE_XI # largeXi
-        | LARGE_PI # largePi
-        | LARGE_RHO # largeRho
-        | LARGE_SIGMA # largeSigma
-        | LARGE_TAU # largeTau
-        | SMALL_ALPHA # smallAlpha
-        | SMALL_EPSILON # smallEpsilon
-        | SMALL_ETA # smallEta
-        | SMALL_IOTA # smallIota
-        | SMALL_OMICRON # smallOmicron
-        | SMALL_UPSILON # smallUpsilon
-        | SMALL_OMEGA # smallOmega
-        | SMALL_BETA # smallBeta
-        | SMALL_GAMMA # smallGamma
-        | SMALL_DELTA # smallDelta
-        | SMALL_ZETA # smallZeta
-        | SMALL_KAPPA # smallKappa
-        | SMALL_LAMBDA # smallLambda
-        | SMALL_MU # smallMu
-        | SMALL_NU # smallNu
-        | SMALL_XI # smallXi
-        | SMALL_PI # smallPi
-        | SMALL_RHO # smallRho
-        | SMALL_SIGMA # smallSigma
-        | SMALL_TAU # smallTau
-        ;
+              | LARGE_EPSILON # largeEpsilon
+              | LARGE_ETA # largeEta
+              | LARGE_IOTA # largeIota
+              | LARGE_OMICRON # largeOmicron
+              | LARGE_UPSILON # largeUpsilon
+              | LARGE_OMEGA # largeOmega
+              | LARGE_BETA # largeBeta
+              | LARGE_GAMMA # largeGamma
+              | LARGE_DELTA # largeDelta
+              | LARGE_ZETA # largeZeta
+              | LARGE_KAPPA # largeKappa
+              | LARGE_LAMBDA # largeLambda
+              | LARGE_MU # largeMu
+              | LARGE_NU # largeNu
+              | LARGE_XI # largeXi
+              | LARGE_PI # largePi
+              | LARGE_RHO # largeRho
+              | LARGE_SIGMA # largeSigma
+              | LARGE_TAU # largeTau
+              | SMALL_ALPHA # smallAlpha
+              | SMALL_EPSILON # smallEpsilon
+              | SMALL_ETA # smallEta
+              | SMALL_IOTA # smallIota
+              | SMALL_OMICRON # smallOmicron
+              | SMALL_UPSILON # smallUpsilon
+              | SMALL_OMEGA # smallOmega
+              | SMALL_BETA # smallBeta
+              | SMALL_GAMMA # smallGamma
+              | SMALL_DELTA # smallDelta
+              | SMALL_ZETA # smallZeta
+              | SMALL_KAPPA # smallKappa
+              | SMALL_LAMBDA # smallLambda
+              | SMALL_MU # smallMu
+              | SMALL_NU # smallNu
+              | SMALL_XI # smallXi
+              | SMALL_PI # smallPi
+              | SMALL_RHO # smallRho
+              | SMALL_SIGMA # smallSigma
+              | SMALL_TAU # smallTau
+              ;
 
 punctuation: COMMA # comma
            | SEMICORON # semicoron
